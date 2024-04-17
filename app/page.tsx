@@ -7,7 +7,7 @@ import ProjectsPage from './pages/projects/page'
 export default function Home() {
   return (
     <main className="flex min-h-screen w-full flex-col items-center justify-center ">
-      <div className="w-full overflow-x-hidden ">
+      <div className="w-full overflow-hidden ">
         <HomePageSection />
         <AboutMe />
         <ProjectsPage />

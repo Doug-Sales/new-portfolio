@@ -33,7 +33,7 @@ export function CardGridProjects({ projects }: CardGridProps) {
           </CardTitle>
           <CardDescription>
             <span className="w-full whitespace-pre-line text-pretty px-2 pt-4">
-              {`No meu repositório GitHub, você encontrará uma variedade de projetos que abrangem desde o básico de quando inicieios estudos, até projetos mais avançados. Cada commit e pull request representa um passo em direção ao meu constante aprimoramento como profissional.`}
+              {`No meu repositório GitHub, você encontrará uma variedade de projetos que abrangem desde o básico de quando iniciei os estudos, até projetos mais avançados. Cada commit e pull request representa um passo em direção ao meu constante aprimoramento como profissional.`}
             </span>
           </CardDescription>
         </CardHeader>
