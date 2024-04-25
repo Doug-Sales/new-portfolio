@@ -7,7 +7,7 @@ import { Card, CardContent } from './ui/card'
 
 export function FooterSection() {
   return (
-    <footer className="h-80 w-full border-t pt-6">
+    <footer className="h-fit w-full border-t pt-6 lg:h-80">
       <div className="mx-auto h-full w-full max-w-7xl">
         <div className="grid h-full py-6 lg:grid-cols-3">
           <div className="flex flex-col space-y-4 pb-6">
